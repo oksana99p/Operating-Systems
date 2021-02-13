@@ -1,1 +1,2 @@
 One function of the operating system is Process management. It helps OS to create and delete processes. It also provides mechanisms for synchronization and communication among processes.
+Another function of any operating system is memory management. Memory management refers to the management of primary or main memory. Main memory provides fast storage which can be accessed directly by CPU. The operating system’s memory manager coordinates the use of various types of memory, which is to be allocated or de-allocated and how to move data between them.
